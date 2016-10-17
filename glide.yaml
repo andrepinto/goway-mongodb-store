@@ -1,0 +1,3 @@
+package: github.com/andrepinto/goway-mongodb-store
+import:
+- package: gopkg.in/mgo.v2
